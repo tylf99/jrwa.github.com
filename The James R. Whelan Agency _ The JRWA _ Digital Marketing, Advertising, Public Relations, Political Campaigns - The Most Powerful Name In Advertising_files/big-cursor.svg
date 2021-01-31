@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>big-cursor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-166.000000, -432.000000)">
+            <g id="big-cursor" transform="translate(161.000000, 427.000000)">
+                <polygon id="Path" points="0 0 36 0 36 36 0 36"></polygon>
+                <polygon id="Path" stroke="#1B2E3C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="20.998 16.552 30.525 26.079 26.079 30.525 16.552 20.998 12.5 30.062 6 6 30.062 12.5"></polygon>
+                <circle id="Oval" fill="#3DB59A" cx="16" cy="15" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

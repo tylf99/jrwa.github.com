@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="26px" viewBox="0 0 31 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>link</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-167.000000, -373.000000)">
+            <g id="link" transform="translate(165.000000, 368.000000)">
+                <rect id="Rectangle" x="0" y="0" width="36" height="36"></rect>
+                <path d="M17,19.5204616 C18.0913272,20.9570133 19.7625272,21.8560322 21.5798529,21.9841848 C23.3971785,22.1123375 25.1814372,21.4569878 26.4695383,20.1882266 L30.2372591,16.4784208 C32.6170283,14.0523384 32.5829942,10.1959588 30.1607654,7.81096301 C27.7385367,5.4259672 23.8219539,5.3924563 21.3579971,7.73564514 L19.1978371,9.85023445" id="Path" stroke="#1B2E3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M18,16.4795384 C16.9086728,15.0429867 15.2374728,14.1439678 13.4201471,14.0158152 C11.6028215,13.8876625 9.81856279,14.5430122 8.53046169,15.8117734 L4.76274087,19.5215792 C2.38297174,21.9476616 2.41700578,25.8040412 4.83923455,28.189037 C7.26146332,30.5740328 11.1780461,30.6075437 13.6420029,28.2643549 L15.7896038,26.1497656" id="Path" stroke="#3DB59A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

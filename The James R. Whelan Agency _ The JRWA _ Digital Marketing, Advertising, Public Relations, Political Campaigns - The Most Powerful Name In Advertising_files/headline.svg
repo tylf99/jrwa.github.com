@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>headline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-218.000000, -333.000000)">
+            <g id="headline" transform="translate(209.000000, 326.000000)">
+                <rect id="Rectangle" x="0" y="0" width="36" height="36"></rect>
+                <path d="M9.75,18.25 L26.75,18.25" id="Path-5" stroke="#3DB59A" stroke-width="2"></path>
+                <path d="M10.25,7.5 L10.25,29" id="Path-5" stroke="#1B2E3C" stroke-width="2"></path>
+                <path d="M26.25,7.5 L26.25,29" id="Path-5" stroke="#1B2E3C" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
